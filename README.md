@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This project is an implementation of the famous Game Of Life.
+This project is an solution for the famous coding problem Conway's Game Of Life.
 
 Visit the wiki link below for deep discription of the problem statement
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
